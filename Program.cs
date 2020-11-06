@@ -10,9 +10,9 @@ namespace CodeWars
     {
         static void Main(string[] args)
         {
-            string text = Console.ReadLine();
-            Console.WriteLine(Your_order__please_6_kyu_.Order(text));
-
+            int num;
+            Int32.TryParse(Console.ReadLine(), out num);
+            Console.WriteLine(PerfectSquare.FindNextSquare(num));
             Console.ReadKey();
         }
 
