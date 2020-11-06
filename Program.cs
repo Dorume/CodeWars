@@ -10,6 +10,12 @@ namespace CodeWars
     {
         static void Main(string[] args)
         {
+            string text = Console.ReadLine();
+            Console.WriteLine(Your_order__please_6_kyu_.Order(text));
+
+            Console.ReadKey();
         }
+
+
     }
 }
