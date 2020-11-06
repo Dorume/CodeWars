@@ -11,7 +11,7 @@ namespace CodeWars
         static void Main(string[] args)
         {
             string s;
-            Console.WriteLine(Printer_Errors.PrinterError(Console.ReadLine()));
+            Console.WriteLine(ShortestWord_s_.FindShort(Console.ReadLine()));
 
             Console.ReadKey();
         }
