@@ -10,9 +10,9 @@ namespace CodeWars
     {
         static void Main(string[] args)
         {
-            int num;
-            Int32.TryParse(Console.ReadLine(), out num);
-            Console.WriteLine(PerfectSquare.FindNextSquare(num));
+            string s;
+            Console.WriteLine(Printer_Errors.PrinterError(Console.ReadLine()));
+
             Console.ReadKey();
         }
 
