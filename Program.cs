@@ -10,9 +10,7 @@ namespace CodeWars
     {
         static void Main(string[] args)
         {
-            string s;
-            Console.WriteLine(Simple_Pig_Latin.PigIt(Console.ReadLine()));
-
+            Console.WriteLine(Rot13Kata.Rot13(Console.ReadLine()));
             Console.ReadKey();
         }
 
