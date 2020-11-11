@@ -10,8 +10,7 @@ namespace CodeWars
     {
         static void Main(string[] args)
         {
-            string s;
-            Console.WriteLine(Simple_Pig_Latin.PigIt(Console.ReadLine()));
+            Console.WriteLine(Parentheses.ValidParentheses(Console.ReadLine()));
 
             Console.ReadKey();
         }
