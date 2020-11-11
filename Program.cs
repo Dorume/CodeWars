@@ -10,7 +10,7 @@ namespace CodeWars
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Parentheses.ValidParentheses(Console.ReadLine()));
+            Console.WriteLine(Count_the_smiley_faces_.CountSmileys(Console.ReadLine().Split(new char[] {' '})));
 
             Console.ReadKey();
         }
