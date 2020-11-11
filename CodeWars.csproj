@@ -52,6 +52,7 @@
     <Compile Include="ShortestWord%28s%29.cs" />
     <Compile Include="Simple Pig Latin.cs" />
     <Compile Include="Parentheses.cs" />
+    <Compile Include="Sum of Digits _ Digital Root.cs" />
     <Compile Include="Your order, please%286 kyu%29.cs" />
   </ItemGroup>
   <ItemGroup>

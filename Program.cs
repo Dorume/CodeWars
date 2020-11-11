@@ -10,7 +10,7 @@ namespace CodeWars
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Count_the_smiley_faces_.CountSmileys(Console.ReadLine().Split(new char[] {' '})));
+            Console.WriteLine(Sum_of_Digits___Digital_Root.DigitalRootMyAnswer(Convert.ToInt64(Console.ReadLine())));
 
             Console.ReadKey();
         }
