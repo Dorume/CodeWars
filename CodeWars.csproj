@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Binary Addition.cs" />
     <Compile Include="Bit Counting%286 kyu%29.cs" />
     <Compile Include="Count the smiley faces!.cs" />
     <Compile Include="PerfectSquare.cs" />
