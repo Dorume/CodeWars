@@ -10,7 +10,8 @@ namespace CodeWars
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Rot13Kata.Rot13(Console.ReadLine()));
+            Console.WriteLine(Sum_of_Digits___Digital_Root.DigitalRootMyAnswer(Convert.ToInt64(Console.ReadLine())));
+
             Console.ReadKey();
         }
 

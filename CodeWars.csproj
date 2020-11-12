@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Binary Addition.cs" />
     <Compile Include="Bit Counting%286 kyu%29.cs" />
+    <Compile Include="Count the smiley faces!.cs" />
     <Compile Include="PerfectSquare.cs" />
     <Compile Include="Printer Errors.cs" />
     <Compile Include="Program.cs" />
@@ -52,6 +54,7 @@
     <Compile Include="ShortestWord%28s%29.cs" />
     <Compile Include="Simple Pig Latin.cs" />
     <Compile Include="Parentheses.cs" />
+    <Compile Include="Sum of Digits _ Digital Root.cs" />
     <Compile Include="Your order, please%286 kyu%29.cs" />
   </ItemGroup>
   <ItemGroup>
